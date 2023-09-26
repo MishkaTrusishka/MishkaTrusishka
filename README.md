@@ -4,7 +4,7 @@
   </div>
   <img src='https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif' width=200>
   <div id='badges'>
-    <a href='tg://resolve?domain=kislud'>
+    <a href='https://roslovets.github.io/tg#https://t.me/kislud'>
       <img src='https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge' alt='telegram badge'/>
     </a>
     <a href='https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQqVCvgZXMwNgCtWlPgxFRLkbLDDkFNjLsjCmHXzntTSWWRdtnNGSphFSlBQjShHzcWmV'>
