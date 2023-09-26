@@ -4,7 +4,7 @@
   </div>
   <img src='https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif' width=200>
   <div id='badges'>
-    <a href='https://t.me/kislud'>
+    <a href='tg://resolve?domain=kislud'>
       <img src='https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge' alt='telegram badge'/>
     </a>
     <a href='https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQqVCvgZXMwNgCtWlPgxFRLkbLDDkFNjLsjCmHXzntTSWWRdtnNGSphFSlBQjShHzcWmV'>
@@ -22,7 +22,7 @@
 - I'm currently learning **Python, automatic, data sience, machine learning.**
 - I regulary read tech articals.
 - In my free time, I solve tasks on Codewars or read documentation some tech library.
-- How to reach me:[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](t.me/kislud)
+- How to reach me:[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](tg://resolve?domain=kislud)
 
 ---
 
