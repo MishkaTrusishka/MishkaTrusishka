@@ -19,7 +19,7 @@
 ---
 
 ### :man_technologist:About me
-- I'm currently learning **Python, automatic, data sience, machine learning.**
+- I'm currently learning **Python, automatic, data sience.**
 - I regulary read tech articals.
 - In my free time, I solve tasks on Codewars or read documentation some tech library.
 - How to reach me:[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/kislud)
